@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lu Yuqing's academic personal websites"
+title: "Yuqing Lu's academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
