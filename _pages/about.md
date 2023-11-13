@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Yuqing Lu received the B.S. degree in Digital Media from Xi’an University of Technology, Xi’an, China, in 2022. I'm currently pursuing the Master degree in Signal and Information Processing at Xi’an University of Technology. My current research interests include machine learning, cross modal retrieval.  
+I'm received the B.S. degree in Digital Media from [Xi’an University of Technology](https://www.xaut.edu.cn/index.htm), Xi’an, China, in 2022. I'm currently pursuing the Master degree in Signal and Information Processing at Xi’an University of Technology. My current research interests include machine learning, cross modal retrieval. 
+[Email](2220821073@stu.xaut.edu.cn) / [Github](https://lyq0724.github.io) 
+
