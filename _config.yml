@@ -10,9 +10,7 @@ locale                   : "en-China"
 title                    : "Yuqing Lu's personal website"
 title_separator          : "-"
 name                     : &name "Yuqing Lu"
-#description              : &description "personal description"
-url                      : https://lyq0724.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-#baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://lyq0724.github.io
 repository               : "lyq0724/lyq0724.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -56,20 +54,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-#twitter:
-  #username               : &twitter
-#facebook:
-  #username               :
-  #app_id                 :
-  #publisher              :
-#og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-#social:
-  #type                   : # Person or Organization (defaults to Person)
-  #name                   : # If the user or organization name differs from the site's name
-  #links: # An array of links to social media profiles
-
 
 # Analytics
 analytics:
